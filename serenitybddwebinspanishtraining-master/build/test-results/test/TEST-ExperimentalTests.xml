@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExperimentalTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-29T00:11:42" hostname="DESKTOP-67A13AR" time="8.492">
+  <properties/>
+  <testcase name="downloadPDFTest" classname="ExperimentalTests" time="8.492"/>
+  <system-out><![CDATA[5444444444444444444444444444444444444444444444444444444444444444444444444
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}) on port 19447
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 28, 2021 7:11:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
